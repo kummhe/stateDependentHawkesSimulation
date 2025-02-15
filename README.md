@@ -1,4 +1,4 @@
-# Simulating market microstructure with state dependent hawkes simulation
+# Simulating market microstructure with state dependent hawkes process simulation
 
 This is the code behind the article Market microsructure simulation with state-dependent Hawkes process.
 
