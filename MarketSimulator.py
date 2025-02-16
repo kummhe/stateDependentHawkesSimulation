@@ -58,4 +58,4 @@ class MarketSimulator:
         df["events"] = self.res_events
         df["states"] = self.res_states
 
-        df.to_csv("results5.csv")
+        df.to_csv("results.csv")
